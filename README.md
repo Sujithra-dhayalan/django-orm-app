@@ -20,6 +20,7 @@ Write your own steps
 ## PROGRAM
 
 Include your code here
+```
 from django.db import models
 
 from django.contrib import admin
@@ -34,7 +35,7 @@ class Student (models.Model):
 
 class StudentAdmin (admin.ModelAdmin):
     list_display=('referencenumber','name','age','email','bloodgroup')
-
+```
 ## OUTPUT
 
 Include the screenshot of your admin page.
