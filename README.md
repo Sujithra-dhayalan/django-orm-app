@@ -46,3 +46,4 @@ Include the screenshot of your admin page.
 ![django students](https://user-images.githubusercontent.com/115523950/230268752-69f69a09-af76-4dc8-b670-8046f7d3286d.png)
 
 ## RESULT
+Thus the program for Django admin is created successfully.
